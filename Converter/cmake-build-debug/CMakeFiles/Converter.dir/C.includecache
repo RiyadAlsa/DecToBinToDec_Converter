@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Riyad/Desktop/Prog/CLion/Projects/Converter/main.c
+stdio.h
+-
+math.h
+-
+method.h
+C:/Users/Riyad/Desktop/Prog/CLion/Projects/Converter/method.h
+
+C:/Users/Riyad/Desktop/Prog/CLion/Projects/Converter/method.h
+
